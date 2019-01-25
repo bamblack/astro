@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're going places
+title: We're Going Places
 ---
 
 To infinity... And beyond!
